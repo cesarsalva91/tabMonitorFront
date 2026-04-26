@@ -1,6 +1,0 @@
-services:
-  frontend:
-    build: .
-    container_name: mqtt-frontend
-    ports:
-      - "8080:80"
